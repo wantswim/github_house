@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@color/launcher_item_select"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="5dp"
+        android:text="房屋租赁"
+        android:textColor="@color/white_normal"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/mtvxuqiu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:padding="10dp"
+        android:layout_alignParentRight="true"
+        android:text="需求"
+        android:textColor="@color/white_normal"
+        android:textSize="14sp" />
+</RelativeLayout>
