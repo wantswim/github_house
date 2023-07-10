@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Jul 10 11:14:04 CST 2023
+#Mon Jul 10 11:50:48 CST 2023
 0.baseType=DIRECTORY
-0.base=D\:\\yj\\2023_xiaoxueqi\\github_house\\code\\HouseProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\43
+0.base=D\:\\yj\\2023_xiaoxueqi\\github_house\\github_house\\code\\HouseProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\43
 0.path=classes.dex
 0.set=DEX
 count=1

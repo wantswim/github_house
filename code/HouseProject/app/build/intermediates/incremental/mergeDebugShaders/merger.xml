@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\yj\2023_xiaoxueqi\github_house\code\HouseProject\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\yj\2023_xiaoxueqi\github_house\code\HouseProject\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\yj\2023_xiaoxueqi\github_house\github_house\code\HouseProject\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\yj\2023_xiaoxueqi\github_house\github_house\code\HouseProject\app\src\debug\shaders"/></dataSet></merger>
